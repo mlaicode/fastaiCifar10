@@ -42,4 +42,4 @@ pip install mlinstrumentation
 [Dashboard here](http://bit.ly/mlinstrumentation)
 
 Sample image
-![Dashboard ](assets/images/dashsnap.png)
+![Dashboard ](https://github.com/mlaicode/kerasTitanic/blob/master/assets/images/dashsnap.png)
